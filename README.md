@@ -130,7 +130,7 @@ Smart-Farmer-NLP-Chatbot
 
 Clone Repository
 
-git clone YOUR_GITHUB_REPOSITORY_LINK
+git clone https://github.com/mahinoorbasha-alt/CodeAlpha_chatbot-for-FAQs
 
 Navigate to Project Folder
 
